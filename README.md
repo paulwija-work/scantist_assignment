@@ -1,4 +1,4 @@
-# Scantist Assignment
+# GitHub repositories release version number extractor
 
 Extract all the release version number from GitHub repositories and compile to a json file.
 
